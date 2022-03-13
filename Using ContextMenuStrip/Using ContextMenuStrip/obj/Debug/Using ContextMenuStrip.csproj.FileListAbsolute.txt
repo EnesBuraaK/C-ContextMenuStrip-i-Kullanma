@@ -1,0 +1,11 @@
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\bin\Debug\Using ContextMenuStrip.exe.config
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\bin\Debug\Using ContextMenuStrip.exe
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\bin\Debug\Using ContextMenuStrip.pdb
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using ContextMenuStrip.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using ContextMenuStrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using_ContextMenuStrip.Form1.resources
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using_ContextMenuStrip.Properties.Resources.resources
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using ContextMenuStrip.exe
+C:\Users\Burak\source\repos\Using ContextMenuStrip\Using ContextMenuStrip\obj\Debug\Using ContextMenuStrip.pdb
